@@ -6,7 +6,7 @@ scm:
 
 envs:
   version: 3.0.1
-  build: lll
+
 
 stages:
   build:
