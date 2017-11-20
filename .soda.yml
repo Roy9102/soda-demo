@@ -5,7 +5,8 @@ scm:
   checkout: true
 
 envs:
-  version: 3.0.1
+  test: 3.0.1
+  demo: 11
 
 stages:
   build:
